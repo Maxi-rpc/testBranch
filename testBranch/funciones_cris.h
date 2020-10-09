@@ -1,0 +1,7 @@
+#ifndef FUNCIONES_CRIS_H_INCLUDED
+#define FUNCIONES_CRIS_H_INCLUDED
+
+
+void holaMundo();
+
+#endif // FUNCIONES_CRIS_H_INCLUDED

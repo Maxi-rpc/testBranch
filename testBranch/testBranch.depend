@@ -1,7 +1,15 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1602207489 source:c:\users\maxi\documents\github\testbranch\testbranch\max.cpp
 	<iostream>
 	"max.h"
 
 1602207489 c:\users\maxi\documents\github\testbranch\testbranch\max.h
+=======
+1602207558 source:e:\c++\prueba branch\testbranch\testbranch\main.cpp
+	<iostream>
+	"funciones_cris.h"
+
+1602207448 e:\c++\prueba branch\testbranch\testbranch\funciones_cris.h
+>>>>>>> cris
 
