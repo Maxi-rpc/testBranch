@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void hola(){
+    cout << "Hola";
+}
+
 int main()
 {
 
@@ -19,6 +23,14 @@ int main()
 
     cout << "Uhrig" << endl;
 
+<<<<<<< HEAD
+=======
+    cout << "wasdasd" << endl;
+
+    cout << "wasdasd" << endl;
+
+    hola();
+>>>>>>> cris
 
     return 0;
 }
