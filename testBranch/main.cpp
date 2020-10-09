@@ -12,7 +12,7 @@ int main()
     cout << "Hello MAX!" << endl;
 
 
-//Cris
+//Cris //
     cout << "Cristian" << endl;
 
     cout << "Uhrig" << endl;
