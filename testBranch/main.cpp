@@ -1,14 +1,14 @@
 #include <iostream>
 
 using namespace std;
-
+#include "max.h"
 void hola(){
     cout << "Hola";
 }
 
 int main()
 {
-
+    helloMax();
     cout << "Hello world!" << endl;
 
     cout << "------------" << endl;
@@ -23,14 +23,13 @@ int main()
 
     cout << "Uhrig" << endl;
 
-<<<<<<< HEAD
-=======
+
     cout << "wasdasd" << endl;
 
     cout << "wasdasd" << endl;
 
     hola();
->>>>>>> cris
+
 
     return 0;
 }

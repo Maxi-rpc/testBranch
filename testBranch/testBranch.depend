@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602207489 source:c:\users\maxi\documents\github\testbranch\testbranch\max.cpp
+	<iostream>
+	"max.h"
+
+1602207489 c:\users\maxi\documents\github\testbranch\testbranch\max.h
+
