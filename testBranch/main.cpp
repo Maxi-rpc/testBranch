@@ -11,6 +11,8 @@ int main()
 
     cout << "Hello MAX!" << endl;
     cout << "Hello MAX 2!" << endl;
+    cout << "------------" << endl;
+    cout << "Hello MAX 3!" << endl;
 
 //Cris //
     cout << "Cristian" << endl;
