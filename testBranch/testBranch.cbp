@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="funciones_cris.cpp" />
+		<Unit filename="funciones_cris.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="max.cpp" />
 		<Unit filename="max.h" />
