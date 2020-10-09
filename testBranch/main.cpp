@@ -10,7 +10,7 @@ int main()
     cout << "------------" << endl;
 
     cout << "Hello MAX!" << endl;
-
+    cout << "Hello MAX 2!" << endl;
 
 //Cris //
     cout << "Cristian" << endl;
